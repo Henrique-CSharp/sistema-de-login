@@ -1,21 +1,3 @@
-# import tkinter
-#
-# window = tkinter.Tk()
-# window.geometry('500x500')
-#
-# def acessar():
-#     print("Fazer login")
-#
-# texto = tkinter.Label(text="LOGIN")
-# texto.pack(padx=10, pady=10)
-#
-# button = tkinter.Button(window, text="login", command=acessar)
-# button.pack(padx=10, pady=10)
-#
-#
-#
-# window.mainloop()
-
 import customtkinter
 
 customtkinter.set_appearance_mode("dark")
